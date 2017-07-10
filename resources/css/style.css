@@ -55,6 +55,10 @@ div {
   width: 630px;
 }
 
+.middle {
+  width: 300px;
+}
+
 .image-content {
   background-image: url('C:/Users/jason/Documents/Projects/mytimes/resources/images/img-story-main.png');
 }
