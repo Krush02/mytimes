@@ -29,7 +29,7 @@ nav {
   padding-left: 30px;
 }
 
-a:link {
+a:link, a:visited {
   padding: 10px;
   color: black;
 }
