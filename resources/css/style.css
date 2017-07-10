@@ -59,6 +59,10 @@ div {
   width: 300px;
 }
 
+.right {
+  width: 240px;
+}
+
 .image-content {
   background-image: url('C:/Users/jason/Documents/Projects/mytimes/resources/images/img-story-main.png');
 }
