@@ -29,15 +29,32 @@ nav {
   padding-left: 30px;
 }
 
-a:hover {
-  color: mediumaquamarine;
-}
-
 a:link, a:visited {
   padding: 10px;
   color: black;
 }
 
+a:hover {
+  color: mediumAquamarine;
+}
+
 p {
-  border: 1px solid black;
+
+}
+
+div {
+  border: 1px solid black; /* DELETE THIS BORDER!! */
+}
+
+.container {
+  display: flex;
+  padding-top: 110px;
+}
+
+.left {
+  width: 630px;
+}
+
+.image-content {
+  background-image: url('C:/Users/jason/Documents/Projects/mytimes/resources/images/img-story-main.png');
 }
