@@ -29,6 +29,10 @@ nav {
   padding-left: 30px;
 }
 
+a:hover {
+  color: mediumaquamarine;
+}
+
 a:link, a:visited {
   padding: 10px;
   color: black;
