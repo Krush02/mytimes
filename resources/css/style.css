@@ -127,7 +127,7 @@ div {
   display: flex;
   height: 300px;
   margin-top: 15px;
-  background-image: url('C:/Users/jason/Documents/Projects/mytimes/resources/images/camera.png');
+  background-image: url('mytimes/resources/images/camera.png');
 }
 
 .camera-img-content span {
