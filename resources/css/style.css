@@ -113,7 +113,7 @@ div {
   display: flex;
   height: 300px;
   margin-top: 15px;
-  background-image: url('C:/Users/jason/Documents/Projects/mytimes/resources/images/fall.png');
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png');
 }
 
 .fall-img-content span {
@@ -128,7 +128,7 @@ div {
   display: flex;
   height: 300px;
   margin-top: 15px;
-  background-image: url('mytimes/resources/images/camera.png');
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png');
 }
 
 .camera-img-content span {
@@ -147,7 +147,7 @@ div {
   font-weight: bold;
   text-align: center;
   height: 300px;
-  background-image: url('C:/Users/jason/Documents/Projects/mytimes/resources/images/cat.png');
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png');
 }
 
 .news-bites .bite {
