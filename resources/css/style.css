@@ -99,7 +99,7 @@ div {
 .image-content {
   display: flex;
   height: 300px;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png');
+  background-image: url('../images/img-story-main.png');
 }
 
 .image-content span {
@@ -113,7 +113,7 @@ div {
   display: flex;
   height: 300px;
   margin-top: 15px;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png');
+  background-image: url('../images/fall.png');
 }
 
 .fall-img-content span {
@@ -128,7 +128,7 @@ div {
   display: flex;
   height: 300px;
   margin-top: 15px;
-  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png');
+  background-image: url('../images/camera.png');
 }
 
 .camera-img-content span {
