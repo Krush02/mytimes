@@ -198,7 +198,7 @@ footer .title {
   color: white;
 }
 
-.footer {
+footer {
   display: flex;
   background-color: mediumaquamarine;
   flex-direction: column;
@@ -212,6 +212,6 @@ footer .title {
   font-size: 12px;
 }
 
-.footer a:hover {
+footer a:hover {
   color: white;
 }
